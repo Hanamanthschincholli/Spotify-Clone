@@ -133,19 +133,6 @@ function displaySongs(songUrls) {
 - Implement a backend to manage and serve the songs more efficiently.
 - Fix the Touch feature of albums for mobile/tabs.
 
-### Contributing
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-1. Fork the repository: Click the "Fork" button at the top right of the repository page to create a copy of the repository on your GitHub account.
-2. Clone the repository: Use the following command to clone your forked repository to your local machine: <br>
-   `git clone https://github.com/EpicNesh26/spotify-clone.git`
-3. Make your changes: Implement your feature or bugfix in the code.
-4. Commit your changes: Use the following commands to add your changes and commit them with a descriptive message: <br>
-  ` git add -A ` <br>
-  ` git commit --m "Your Commit Message" `
-5. Push your changes: Push your changes to your forked repository: <br>
-   `git push origin feature-name`
-6. Create a Pull Request: Go to the original repository on GitHub and create a pull request from your forked repository. Provide a clear description of your changes and why they should be merged.
-7. Review and Merge: Your pull request will be reviewed, and if everything looks good, it will be merged into the main branch.
 
 ### License
 This project is licensed under the MIT License. Feel free to use and modify it as you like.
