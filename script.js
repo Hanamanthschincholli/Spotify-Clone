@@ -2,7 +2,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     console.log("DOM fully loaded and parsed");})
 
-
 let currentAudio = null;
 let currentSongIndex = 0;
 let songUrls = [];
